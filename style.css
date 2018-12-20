@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin-top: 0;
+}
+.menu-area{
+    margin-top: 30px;
+}
+.menu-area ul{
+    display: flex;
+}
+.menu-area ul li{
+    list-style: none;
+    padding: 10px;
+}
+.menu-area ul li a{
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu-area ul li a:hover{
+    font-size: 22px;
+    color: blue;
+}
+.header-area .header-buttom{
+   background: url(Image/pic1.jpg); 
+    padding: 200px;
+    background-repeat: no-repeat;
+    margin-left: 180px;
+   
+}
+.header-buttom .container{
+  
+
+}
+.header-buttom .header-text h1{
+    color:darkblue;
+    text-align: left;
+    
+   
+}
+.header-buttom .header-text p{
+    color: black;
+    font-size: 18px;
+   
+    
+}
+.body-area{
+   
+    padding: 100px 0;
+    
+   
+}
+.body-area .container{
+ 
+}
+.body-area .body-text h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top:0;
+    color: blue;
+}
+.body-area .body-text p{
+    text-align: center;
+    padding: 70px;
+    color: blue;
+}
+
